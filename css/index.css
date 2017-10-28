@@ -1,0 +1,172 @@
+/* Social Links */
+
+#socialLinkSection {
+    margin-top: 3px;
+    margin-bottom: 8px;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#socialLinkContent {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.links {
+    margin: 0 20px 0 20px;
+    display: inline-block;
+    font-size: 16px;
+    color: #212121;
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+}
+
+.links:hover {
+    background-color: lightgrey;
+}
+
+
+/* Profile Image */
+
+#profileImage {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: calc(25%);
+    margin-left: calc(50% - 75px);
+}
+
+/* The various Texts */
+
+#heroName {
+    font-size: 2.2rem;
+}
+
+#description {
+    font-size: 1.3rem;
+}
+
+#portfolioTitle {
+    margin-left: 8px;
+}
+
+#portfolioText {
+    margin-top: 0px;
+    margin-bottom: -30px;
+    font-weight: 500;
+    font-size: 2.2rem;
+}
+
+#firstCategoryText {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+#portfolioColumn {
+    padding: 24px;
+}
+
+/* Cards */
+.card-main-image,
+.card-image {
+    border-top-left-radius: 2px !important;
+    border-top-right-radius: 2px !important;
+}
+
+.card {
+    border-radius: 2px;
+}
+
+.card-content {
+    border-bottom-left-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;
+}
+
+/* Breakpoint resizing */
+@media only screen and (max-width: 1260px) {
+    #portfolioText {
+        font-size: 2rem;
+        margin-bottom: -20px;
+    }
+    #firstCategoryText {
+        font-size: 1.2rem;
+    }
+    #heroName {
+        font-size: 2.0rem;
+    }
+    #description {
+        font-size: 1.1rem;
+    }
+    #profileImage {
+        height: 125px;
+        width: 125px;
+        margin-top: calc(30%);
+        margin-left: calc(50% - 63px);
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #profileImage {
+        margin-top: calc(10%);
+        margin-left: calc(50% - 63.5px);
+    }
+    #portfolioTitle {
+        text-align: center;
+    }
+    #portfolioColumn {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+}
+
+/* Colors */
+
+.primary-light {
+    color: #90CAF9;
+}
+
+.primary-normal {
+    color: #2196F3;
+}
+
+.primary-dark {
+    color: #1976D2;
+}
+
+.secondary-light {
+    color: #FFE082;
+}
+
+.secondary-normal {
+    color: #FFC107;
+}
+
+.secondary-dark {
+    color: #FFA000;
+}
+
+.primary-light-b {
+    background-color: #90CAF9;
+}
+
+.primary-normal-b {
+    background-color: #2196F3;
+}
+
+.primary-dark-b {
+    background-color: #1976D2;
+}
+
+.secondary-light-b {
+    background-color: #FFE082;
+}
+
+.secondary-normal-b {
+    background-color: #FFC107;
+}
+
+.secondary-dark-b {
+    background-color: #FFA000;
+}

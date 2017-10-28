@@ -1,0 +1,38 @@
+[
+    {
+        "name": "XDA Labs",
+        "description": "The web redesign of the XDA Labs App listing UI. Completely modern, completely Material Design.",
+        "image": "images/labsredesign.jpg",
+        "link": "https://labs.xda-developers.com/store/app/ch.deletescape.lawnchair"
+	},
+    {
+        "name": "Action Launcher",
+        "description": "Website for Action Launcher. Redesigned.",
+        "image": "images/actionlauncher.jpg",
+        "link": "https://github.com/jacksonhvisuals/Cappuccino"
+	},
+    {
+        "name": "5217",
+        "description": "Web version of 5217 by Francisco Franco.",
+        "image": "images/5217.jpg",
+        "link": "/5217/"
+	},
+    {
+        "name": "Lawnchair",
+        "description": "Website for the one-and-only customizable Pixel launcher created by Till Kottmann (aka deletescape).",
+        "image": "images/lawnchair.jpg",
+        "link": "https://lawnchair.info"
+	},
+    {
+        "name": "Style Music",
+        "description": "Website for the brand-new material-design music player by Julian Ostarek.",
+        "image": "images/stylemusic.png",
+        "link": "https://style-music.julianostarek.de"
+	},
+    {
+        "name": "Cappuccino",
+        "description": "A simple, free, material design portfolio for the web. It's also open-source!",
+        "image": "images/cappuccino.jpeg",
+        "link": "https://github.com/jacksonhvisuals/Cappuccino"
+	}
+]
