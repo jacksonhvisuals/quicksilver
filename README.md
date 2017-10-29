@@ -40,3 +40,6 @@ For changelogs, check out [the Releases section of Quicksilver](https://github.c
 
 ## Contributing
 Simply fork, make your changes/contributions, and create a pull request!
+
+## Credits
+Thanks to Lumiq Creative for design suggestions and the fancy-shmancy image!
