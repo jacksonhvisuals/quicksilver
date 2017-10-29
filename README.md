@@ -3,8 +3,6 @@ A free, simple, (mostly) material-design template for the web.
 
 [See demo](https://jacksonhvisuals.github.io)
 
-#### Current Version : v1.0-rc1
-
 ## Supported Browsers:
 All?
 
