@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Project 1",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+	},
+    {
+        "name": "Project 2",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+	},
+    {
+        "name": "Project 3",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+	},
+    {
+        "name": "Project 4",
+        "description": "This is where you put description about your projects.",
+        "image": "images/image1.jpg",
+        "link": "https://google.com"
+	}
+]
