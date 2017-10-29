@@ -1,4 +1,4 @@
-[Quicksilver](https://github.com/jacksonhvisuals/quicksilver/blob/master/images/qs.png)
+[Quicksilver](https://jacksonhvisuals.github.io/images/qs.png)
 
 # Quicksilver
 A free, simple, (mostly) material-design template for the web.
