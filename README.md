@@ -1,3 +1,5 @@
+[Quicksilver](images/qs.png)
+
 # Quicksilver
 A free, simple, (mostly) material-design template for the web.
 
