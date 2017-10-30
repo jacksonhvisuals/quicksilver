@@ -8,9 +8,6 @@ A free, simple, (mostly) material-design template for the web.
 ## Supported Browsers:
 All?
 
-## Quickstart:
-- Uh... read "Getting Started"
-
 ## Getting Started:
 - First, [Download the latest release](https://github.com/jacksonhvisuals/quicksilver/releases/latest) directly from GitHub. 
 
@@ -21,6 +18,7 @@ All?
 - Replace "Your name" with... your name. 
 - Replace the little description under that with some description about yourself. 
 - Then a little lower, feel free to change the firstCategoryText with whatever type of work you specialize in. Or you can leave it as it is. Doesn't make a difference to me. 
+- Edit the href value of the Contact Button. It should be equal to href="mailto:[YOUR EMAIL ADDRESS]".
 
 - Also very important in index.html is going to be the METADATA. Up inside the head tag, edit the dummy content in the meta tags with real data. 
 
