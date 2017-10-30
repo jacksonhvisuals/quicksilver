@@ -1,3 +1,7 @@
+* {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
 /* Social Links */
 
 #socialLinkSection {
@@ -34,7 +38,6 @@
     height: 150px;
     margin: auto;
     margin-top: calc(25%);
-    margin-left: calc(50% - 75px);
 }
 
 /* The various Texts */
@@ -103,14 +106,12 @@
         height: 125px;
         width: 125px;
         margin-top: calc(30%);
-        margin-left: calc(50% - 63px);
     }
 }
 
 @media only screen and (max-width: 992px) {
     #profileImage {
         margin-top: calc(10%);
-        margin-left: calc(50% - 63.5px);
     }
     #portfolioTitle {
         text-align: center;
@@ -121,6 +122,17 @@
     }
 }
 
+#contactButton {
+    border: 2px solid black;
+    font-weight: 600;
+    color: black;
+    margin-top: 15px;
+}
+
+#contactButton:hover {
+    color: white;
+    background-color: black;
+}
 /* Colors */
 
 .primary-light {
