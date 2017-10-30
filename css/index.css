@@ -129,6 +129,11 @@
     margin-top: 15px;
 }
 
+#contactButton p {
+    margin: 0px;
+    margin-top: -1px;
+}
+
 #contactButton:hover {
     color: white;
     background-color: black;
