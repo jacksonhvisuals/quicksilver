@@ -4,7 +4,7 @@ var workRequest = new XMLHttpRequest();
 var link = document.getElementById("socialLinkContent");
 var linkRequest = new XMLHttpRequest();
 
-linkRequest.open("GET", "/json/links.json", true);
+linkRequest.open("GET", "json/links.json", true);
 linkRequest.onreadystatechange = function () {
     if (linkRequest.readyState === 4) {
         if (linkRequest.status === 200 || linkRequest.status == 0) {
@@ -19,7 +19,7 @@ linkRequest.onreadystatechange = function () {
 };
 linkRequest.send(null);
 
-workRequest.open("GET", "/json/items.json", true);
+workRequest.open("GET", "json/items.json", true);
 workRequest.onreadystatechange = function () {
     if (workRequest.readyState === 4) {
         if (workRequest.status === 200 || workRequest.status == 0) {
