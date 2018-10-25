@@ -3,7 +3,7 @@
 # Quicksilver
 A free, simple, (mostly) material-design template for the web.
 
-[See demo](https://jacksonhayes.me)
+[See demo](https://jacksonhayes.xyz/quicksilver/)
 
 ## Supported Browsers:
 All?
