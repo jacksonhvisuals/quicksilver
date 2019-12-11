@@ -1,7 +1,7 @@
 [
     {
         "name": "Link",
-        "color": "red",
+        "color": "blue",
         "icon": "web",
         "url": "https://google.com"
 	},
