@@ -1,9 +1,9 @@
 [
     {
         "name": "Link",
-        "color": "blue",
+        "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://apple.com"
 	},
     {
         "name": "Link",
